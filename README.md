@@ -67,5 +67,12 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver algu
 ## Licença
 Este projeto está licenciado sob a GNU GENERAL PUBLIC LICENSE.
 
+<p align="center">
+    <img width="500" heigth="500" src="dash.gif">
+
+
+---
+
+
 ---
 Developed by [Anderson B.O.B](https://github.com/eusouanderson)
